@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/vincenzomeschi" target="blank"><img src="https://img.shields.io/twitter/follow/vincenzomeschi?logo=twitter&style=for-the-badge" alt="vincenzomeschi" /></a> </p>
 
 - 🔭 I’m currently working on [LinkStack](https://github.com/VincenzoMeschi/LinkStack)
