@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [NFL Predictor]([https://github.com/VincenzoMeschi/NFL_Predictor_New])<br>🌱 I’m currently learning **T3 Stack**<br>💬 Ask me about **react, node, and graphic design**<br>📫 How to reach me: **vincenzomeschi12@gmail.com**
+🔭 I’m currently working on [Ruff]([https://github.com/VincenzoMeschi/Ruff])<br>🌱 I’m currently learning **Cloud Technologies**<br>💬 Ask me about **React.js, Node.js, and graphic design**<br>📫 How to reach me: **vincenzomeschi12@gmail.com**
 
 
 ## 🌐 Socials:
