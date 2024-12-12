@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ARMS by [Teamworks Innovations, Inc.](https://teamworks.com)<br>🌱 I’m currently learning **Angular.js, Spring Boot, Docker, and JSP**<br>💬 Ask me about **React.js, Node.js, and Design**<br>📫 How to reach me: **vincenzomeschi12@gmail.com**
+🔭 I’m currently working on ARMS by [Teamworks Innovations, Inc.](https://teamworks.com)<br>🌱 I’m currently learning **Golang, Rust**<br>💬 Ask me about **React.js, Node.js, and Design**<br>📫 How to reach me: **vincenzomeschi12@gmail.com**
 
 
 ## 🌐 Socials:
